@@ -27,7 +27,43 @@
         "discription": "about doorphone 4",
         "price": 118,
         "availableSizes": ["X", "L", "XL", "XXL"]
+    },
+    { "_id": "doorphone5",
+        "title": "Doorphone 5",
+        "image": "/images/doorphone5.jpg",
+        "discription": "about doorphone 5",
+        "price": 18,
+        "availableSizes": ["X", "L", "XL", "XXL"]
+    },
+    { "_id": "doorphone6",
+        "title": "Doorphone 6",
+        "image": "/images/doorphone6.jpeg",
+        "discription": "about doorphone 6",
+        "price": 55,
+        "availableSizes": ["X", "L", "XL", "XXL"]
+    },
+    { "_id": "doorphone7",
+        "title": "Doorphone 7",
+        "image": "/images/doorphone7.jpg",
+        "discription": "about doorphone 7",
+        "price": 77,
+        "availableSizes": ["X", "L", "XL", "XXL"]
+    },
+    { "_id": "doorphone8",
+        "title": "Doorphone 8",
+        "image": "/images/doorphone8.jpg",
+        "discription": "about doorphone 8",
+        "price": 30,
+        "availableSizes": ["X", "L", "XL", "XXL"]
+    },
+    { "_id": "doorphone9",
+        "title": "Doorphone 9",
+        "image": "/images/doorphone9.jpeg",
+        "discription": "about doorphone 9",
+        "price": 47,
+        "availableSizes": ["X", "L", "XL", "XXL"]
     } 
+
 
     ]
 }
