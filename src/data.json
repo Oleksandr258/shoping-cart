@@ -5,7 +5,7 @@
         "image": "/images/doorphone1.jpg",
         "discription": "about doorphone 1",
         "price": 77,
-        "availableSizes": ["X", "L", "XL", "XXL"]
+        "availableSizes": ["XS", "M", "L", "XL"]
     },
     { "_id": "doorphone2",
         "title": "Doorphone 2",
@@ -33,7 +33,7 @@
         "image": "/images/doorphone5.jpg",
         "discription": "about doorphone 5",
         "price": 18,
-        "availableSizes": ["X", "L", "XL", "XXL"]
+        "availableSizes": ["M", "L", "XXL"]
     },
     { "_id": "doorphone6",
         "title": "Doorphone 6",
@@ -47,7 +47,7 @@
         "image": "/images/doorphone7.jpg",
         "discription": "about doorphone 7",
         "price": 77,
-        "availableSizes": ["X", "L", "XL", "XXL"]
+        "availableSizes": ["S", "L", "XL", "XXL"]
     },
     { "_id": "doorphone8",
         "title": "Doorphone 8",
